@@ -12,3 +12,10 @@ Archivos modificados    (salir con q)
 Direccion de almacemamiento:    git remote git remote add origin https://github.com/CarlosAlanes/prueba_git.git
 
 Subir archivos al repo:     git push --set-upstream origin new_branch
+
+Descartar cambios hasta 
+el utlimo commit:           git restore
+
+No subir archivos:          git stash
+
+Agregar:                    git tag etiqueta
