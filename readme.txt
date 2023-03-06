@@ -8,3 +8,7 @@ Descarto cambios:       git checkout -- archivo
 
 Ver diferencias de  :   git diff
 Archivos modificados    (salir con q)
+
+Ver branch:             git branch
+Crear branch:           git branch nombre_de_branch
+Selecciono branch:      git checkout nombre_de_branch
